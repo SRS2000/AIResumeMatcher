@@ -1,0 +1,2 @@
+Python developer with experience in C#, .NET, SQL Server, Azure, REST APIs, and Angular. 
+Worked on web applications and data processing systems. Knowledge of machine learning and pandas.
